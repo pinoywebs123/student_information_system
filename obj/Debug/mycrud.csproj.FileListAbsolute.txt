@@ -1,0 +1,12 @@
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\bin\Debug\mycrud.exe.config
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\bin\Debug\mycrud.exe
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\bin\Debug\mycrud.pdb
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.csprojResolveAssemblyReference.cache
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.Form1.resources
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.Properties.Resources.resources
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.csproj.GenerateResource.Cache
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.exe
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.pdb
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\bin\Debug\MySql.Data.dll
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\bin\Debug\MySql.Data.xml
+c:\users\moravelsharp\documents\visual studio 2017\Projects\mycrud\mycrud\obj\Debug\mycrud.Form2.resources
